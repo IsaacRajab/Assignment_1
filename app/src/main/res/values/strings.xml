@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="Gender">Choose Gender</string>
+    <string-array name="GenderType">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
